@@ -1,8 +1,6 @@
 '''
-Farm PD
-Driss Bourzgui - Electrical Engineering Co-Op
+Driss Bourzgui
 3/19/2024
-
 '''
 
 # Libraries
@@ -269,4 +267,5 @@ while True:
         time.sleep(0.25)
         DeployInc.value(0)
         
+
         RUN = 0
